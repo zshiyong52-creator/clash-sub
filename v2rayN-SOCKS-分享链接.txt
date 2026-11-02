@@ -36,3 +36,4 @@ socks://enNzYXdjY3F3eDppcHVtb3JybW91eW1ydw==@203.166.134.68:8022#%E6%96%B0%E5%8A
 socks://Y2VkcXNyenF6YzppcGltcndtb3dlbWlvZQ==@202.68.187.217:8022#%E6%96%B0%E5%8A%A0%E5%9D%A1-17
 socks://d3FkYXpyZXJ3cTpyb21vdG1vcGltaW9v@61.15.102.211:8022#%E4%B8%AD%E5%9B%BD-04
 socks://ZHJjeGRlYXdxZDpyb21vaXltb3Btb3Fw@61.124.10.190:8022#%E6%97%A5%E6%9C%AC-06
+socks5://ezzxcdadcx:oiipmrtmrrmyu@platinum-vip.miyavip.vip:8001#中国-222.167.65.107
